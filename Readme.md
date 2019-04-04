@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[MainWindow.xaml](./CS/BubbleSettings_CustomMarkerTemplate/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/BubbleSettings_CustomMarkerTemplate/MainWindow.xaml.vb))**
+* **[MainWindow.xaml](./CS/BubbleSettings_CustomMarkerTemplate/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/BubbleSettings_CustomMarkerTemplate/MainWindow.xaml))**
 * [MainWindow.xaml.cs](./CS/BubbleSettings_CustomMarkerTemplate/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/BubbleSettings_CustomMarkerTemplate/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to: Specify custom marker template for auto-generated bubble chart items
